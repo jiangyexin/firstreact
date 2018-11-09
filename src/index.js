@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Button from './button.jsx';
+//import Button from './button.jsx';
 import Counter from './counter.jsx';
 
 //我是一个注释
